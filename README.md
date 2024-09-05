@@ -14,9 +14,6 @@ Aperfeiçoar minhas habilidades em frontend e criar experiências de usuário in
 ## 🔍 Em Busca de Oportunidade
 Estou em busca de uma oportunidade de estágio para aplicar e expandir meus conhecimentos. Vamos nos conectar?
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=d0ardaa&show_icons=true&theme=radical)
-
 ## 🔥 Linguagens Mais Usadas
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d0ardaa&layout=compact&theme=radical)
 
