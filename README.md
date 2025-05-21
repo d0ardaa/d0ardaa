@@ -1,21 +1,29 @@
-# 🌟 Bem-vindos ao Meu Perfil!
+# 🌟 Welcome.
 
-🎉 Olá, eu sou a MARIA EDUARDA, estudo programação.
+🎉 Hi.
 
-## 👨‍💻 Minhas Ferramentas:
-- 🟨 **JavaScript**: Criando interações incríveis e dinâmicas.
-- 🟦 **PHP**: Implementando funcionalidades que enriquecem a experiência do usuário.
-- 🔵 **HTML**: Estruturando páginas com carinho e atenção aos detalhes.
-- 🎨 **CSS**: Estilizando interfaces para que sejam bonitas e responsivas.
+👨‍💻 My Tools:
+🟨 JavaScript – Developing dynamic and functional interactions.
+🔵 HTML – Structuring semantic and accessible web pages.
+🎨 CSS – Modern styling with a focus on responsiveness.
+🟦 PHP – Backend development with performance and business logic in mind.
+🟩 MySQL – Managing relational databases with efficient queries and solid data modeling.
 
-## 🚀 Minha Missão
-Aperfeiçoar minhas habilidades em frontend e criar experiências de usuário intuitivas e eficientes.
+## 🚀 My Mission  
+To enhance my skills in data handling and create intelligent, organized, and efficient data-driven solutions.
 
-## 🔍 Em Busca de Oportunidade
-Estou em busca de uma oportunidade de estágio para aplicar e expandir meus conhecimentos. Vamos nos conectar?
+## 🔍 Currently Working  
+I'm currently working as an IT Assistant, where I support ERP systems, perform database queries, create Python automations, and assist with IT infrastructure tasks.
 
-## 🔥 Linguagens Mais Usadas
+
+## 🔥 Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d0ardaa&layout=compact&theme=radical)
+
+### 🛠️ Main Stack
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
 
 ## 🛠️ Tecnologias
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
