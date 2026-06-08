@@ -1,13 +1,16 @@
 # 🌟 Welcome.
 
-🎉 Hi.
+Hi.
 
-👨‍💻 My Tools:
-🟨 JavaScript – Developing dynamic and functional interactions.
-🔵 HTML – Structuring semantic and accessible web pages.
-🎨 CSS – Modern styling with a focus on responsiveness.
-🟦 PHP – Backend development with performance and business logic in mind.
-🟩 MySQL – Managing relational databases with efficient queries and solid data modeling.
+👨‍💻 My Expertise:
+
+🟨 JavaScript | ⚛️ TypeScript | 🔵 HTML | 🎨 CSS | 🟦 PHP
+
+🗄️ Advanced SQL | 🟩 MySQL | ☁️ Google BigQuery
+
+📊 Power BI | 🐍 Python Automation
+
+Specialized in data analysis, business intelligence, process automation, scalable applications, and interactive dashboard development. 🚀
 
 ## 🚀 My Mission  
 To enhance my skills in data handling and create intelligent, organized, and efficient data-driven solutions.
