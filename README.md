@@ -11,12 +11,26 @@ Hi.
 📊 Power BI | 🐍 Python Automation
 
 Specialized in data analysis, business intelligence, process automation, scalable applications, and interactive dashboard development. 🚀
+🚀 My Mission
 
-## 🚀 My Mission  
-To enhance my skills in data handling and create intelligent, organized, and efficient data-driven solutions.
+To leverage data, automation, and software development to create intelligent solutions that optimize processes, generate business value, and support strategic decision-making.
 
-## 🔍 Currently Working  
-I'm currently working as an IT Assistant, where I support ERP systems, perform database queries, create Python automations, and assist with IT infrastructure tasks.
+🔍 Currently Working
+
+Junior Data Analyst focused on Business Intelligence, automation, and software development.
+
+Core technologies:
+
+📊 Power BI
+☁️ Google BigQuery
+🗄️ Advanced SQL
+🐍 Python
+⚛️ TypeScript & React
+🔗 APIs & Integrations
+⚡ Low-Code / No-Code Platforms
+🏗️ IT Infrastructure
+
+Experienced in developing dashboards, automating workflows, building integrations, analyzing large datasets, and creating scalable solutions that connect business needs with technology. 🚀
 
 
 ## 🔥 Most Used Languages
